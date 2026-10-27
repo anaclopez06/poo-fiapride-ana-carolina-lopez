@@ -1,4 +1,4 @@
-# Projeto Sistema de Biblioteca - [Seu Nome Completo]
+# Projeto Sistema de Biblioteca - Ana Carolina Pereira Lopez
 
 ## Informações do Aluno
 
@@ -50,8 +50,6 @@ Os construtores servem para definir como um objeto vai ser criado. No nosso proj
 
 ### Aula 5 - Associação
 
-**Sua resposta:**
-
 A associação acontece quando uma classe se relaciona com outra. No nosso projeto, a classe Emprestimo possui um objeto Livro e um objeto Usuario. Isso é importante porque precisamos saber qual livro foi emprestado e quem pegou esse livro. Se guardássemos apenas o nome do usuário como texto, seria mais difícil relacionar o empréstimo com as informações e os métodos do próprio usuário. Dessa forma, as classes conseguem trabalhar juntas dentro do sistema.
 
 ### Aula 6 - Herança
@@ -91,7 +89,7 @@ Escolhi o de um sistema de biblioteca, com controle de livros, usuários, empré
 
 **Qual foi o maior desafio técnico que você enfrentou?**
 
-Saber exatamente quais comandos fazem cada coisa.
+Saber exatamente quais comandos fazem cada coisa e que na hora de montar a estrutura do código ela fizesse sentido.
 
 ---
 
@@ -99,11 +97,11 @@ Saber exatamente quais comandos fazem cada coisa.
 
 **O que você aprendeu nestas 9 aulas?**
 
-Durante essas 9 aulas, aprendi um pouco mais sobre como funciona a programação orientada a objetos em Java. Aprendi a criar classes e objetos, usar métodos e organizar melhor o código. Também entendi como funciona o encapsulamento, a herança, o polimorfismo, as classes abstratas e as interfaces. Ainda tenho um pouco de dificuldade para programar sozinha, mas, desenvolvendo o projeto da biblioteca, consegui entender melhor como esses conceitos funcionam na prática e como as classes podem trabalhar juntas para formar um sistema.
+Aprendi um pouco mais sobre como funciona a programação orientada a objetos em Java. Aprendi a criar classes e objetos, usar métodos e organizar melhor o código. Também entendi como funciona o encapsulamento, a herança, o polimorfismo, as classes abstratas e as interfaces. Ainda tenho um pouco de dificuldade para programar sozinha, mas, desenvolvendo o projeto da biblioteca, consegui entender melhor como esses conceitos funcionam na prática e como as classes podem trabalhar juntas para formar um sistema.
 
 **Qual conceito foi mais difícil de entender?**
 
- O conceito que achei mais difícil de entender foi o encapsulamento, principalmente a parte dos getters e setters. Ainda tenho um pouco de dificuldade para entender como e quando usar cada um, então precisei pedir ajuda para a IA me ajudar e explicar de um jeito mais fácil. Mesmo assim, ainda estou tentando praticar para entender melhor como funciona.
+O conceito que achei mais difícil de entender foi o encapsulamento, principalmente a parte dos getters e setters. Ainda tenho um pouco de dificuldade para entender como e quando usar cada um, então precisei pedir ajuda para a IA me ajudar e explicar de um jeito mais fácil. Mesmo assim, ainda estou tentando praticar para entender melhor como funciona.
 
 **O que você melhoraria no seu projeto se pudesse refazer?**
 
